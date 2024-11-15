@@ -35,8 +35,6 @@ Participating in this project provided us with valuable insights and practical s
 ## **Screenshots** *(Optional)*  
 Include screenshots or images of your app interface to showcase its design and features.  
 
-![ICON AND LOGO (1)-fotor-bg-remover-20241113234732](https://github.com/user-attachments/assets/65faeffe-9698-48e4-bbee-854f1277422d)
-
 ---
 
 ## **Installation** *(Optional)*  
