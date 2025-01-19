@@ -32,17 +32,7 @@ Participating in this project provided us with valuable insights and practical s
 
 ---
 
-## **Screenshots** *(Optional)*  
-Include screenshots or images of your app interface to showcase its design and features.  
-
----
-
-## **Installation** *(Optional)*  
-If relevant, include instructions for users to test or run your app.
-
----
-
-## **Future Scope** *(Optional)*  
+## **Future Scope** 
 Outline potential future improvements or features you wish to add. For example:  
 - Integration with IoT devices for real-time yield tracking.  
 - Multi-language support for wider accessibility.  
