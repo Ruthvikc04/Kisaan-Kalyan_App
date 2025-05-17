@@ -6,6 +6,8 @@
 ## **Project Description**  
 **Kisaan-Kalyan** is a comprehensive mobile application designed to empower farmers by providing an all-in-one platform to manage their agricultural activities and finances. It helps farmers stay organized, make informed decisions, and increase productivity in their agricultural endeavors.
 
+---
+
 ### **Key Features**  
 - **Financial Management**: Keep track of expenses, income, and overall financial health.  
 - **Yield Tracking**: Record and monitor yield production over different seasons.  
